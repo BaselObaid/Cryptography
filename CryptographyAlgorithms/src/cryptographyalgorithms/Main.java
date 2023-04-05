@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author Basel Obaid
  */
-public class CryptographyAlgorithms {
+public class Main {
 
     public static void main(String[] args) {
 
